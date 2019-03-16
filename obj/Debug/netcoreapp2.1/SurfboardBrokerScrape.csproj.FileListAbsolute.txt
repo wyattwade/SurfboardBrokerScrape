@@ -1,0 +1,11 @@
+C:\Users\wyatt\source\repos\SurfboardBrokerScrape\SurfboardBrokerScrape\bin\Debug\netcoreapp2.1\SurfboardBrokerScrape.deps.json
+C:\Users\wyatt\source\repos\SurfboardBrokerScrape\SurfboardBrokerScrape\bin\Debug\netcoreapp2.1\SurfboardBrokerScrape.runtimeconfig.json
+C:\Users\wyatt\source\repos\SurfboardBrokerScrape\SurfboardBrokerScrape\bin\Debug\netcoreapp2.1\SurfboardBrokerScrape.runtimeconfig.dev.json
+C:\Users\wyatt\source\repos\SurfboardBrokerScrape\SurfboardBrokerScrape\bin\Debug\netcoreapp2.1\SurfboardBrokerScrape.dll
+C:\Users\wyatt\source\repos\SurfboardBrokerScrape\SurfboardBrokerScrape\obj\Debug\netcoreapp2.1\SurfboardBrokerScrape.csproj.CoreCompileInputs.cache
+C:\Users\wyatt\source\repos\SurfboardBrokerScrape\SurfboardBrokerScrape\obj\Debug\netcoreapp2.1\SurfboardBrokerScrape.AssemblyInfoInputs.cache
+C:\Users\wyatt\source\repos\SurfboardBrokerScrape\SurfboardBrokerScrape\obj\Debug\netcoreapp2.1\SurfboardBrokerScrape.AssemblyInfo.cs
+C:\Users\wyatt\source\repos\SurfboardBrokerScrape\SurfboardBrokerScrape\obj\Debug\netcoreapp2.1\SurfboardBrokerScrape.csprojAssemblyReference.cache
+C:\Users\wyatt\source\repos\SurfboardBrokerScrape\SurfboardBrokerScrape\bin\Debug\netcoreapp2.1\SurfboardBrokerScrape.pdb
+C:\Users\wyatt\source\repos\SurfboardBrokerScrape\SurfboardBrokerScrape\obj\Debug\netcoreapp2.1\SurfboardBrokerScrape.dll
+C:\Users\wyatt\source\repos\SurfboardBrokerScrape\SurfboardBrokerScrape\obj\Debug\netcoreapp2.1\SurfboardBrokerScrape.pdb
